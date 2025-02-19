@@ -1,0 +1,63 @@
+* {margin: 0;
+  padding: 0;}
+
+:root {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+
+  .bom-para {
+    font-weight: bold;
+    color: #333333;
+  }
+  
+  .historia {
+    font-weight: bold;
+    color: #0C51A7;
+  }
+  
+  #casais{ 
+    font-weight: bold;
+    color: #591B98;
+  }
+  
+  #familias {
+    font-weight: bold;
+    color: #E5245E;
+  }
+  
+  #orcamento {
+    font-weight: bold;
+    color: #E95E10;
+  }
+
+h4 {
+  color: #E1624F;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  
+}
+
+p {
+  color: #333333;
+}
+
+.rodape-1a-imagem {
+  font-style: italic;
+}
+
+h2 {
+color: #1B1B1B;
+font-size: 32px;
+}
+
+h3 {
+  color: #1B1B1B;
+  font-weight: bold;
+  font-size: 28px;
+}
+
